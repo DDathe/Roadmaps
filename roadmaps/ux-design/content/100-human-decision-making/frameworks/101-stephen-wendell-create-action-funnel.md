@@ -1,15 +1,14 @@
-# Stephen Wendell's CREATE Action Funnel
+قیف اقدام CREATE استیون وندل
 
-Stephen Wendell's Create Action Funnel is a UX design framework focused on converting website visitors into active customers through a systematic and engaging process. The approach emphasizes on understanding user behavior, catering to their needs, and directing them towards specific actions. The Action Funnel consists of four major steps:
+قیف اقدام CREATE استیون وندل یک چارچوب طراحی UX است که بر تبدیل بازدیدکنندگان وب‌سایت به مشتریان فعال از طریق یک فرآیند سیستماتیک و جذاب تمرکز دارد. این رویکرد بر درک رفتار کاربر، برآورده کردن نیازهای آن‌ها و هدایت آن‌ها به سمت اقدامات خاص تأکید می‌کند. قیف اقدام شامل چهار مرحله اصلی است:
 
-- **Establish the Objectives:** Before diving into the design, clearly define the goals you want to achieve through the website or app. Determine what actions you want the users to take (e.g., sign up, make a purchase, share content) and what constitutes a successful conversion.
+    تعیین اهداف: قبل از ورود به طراحی، اهدافی که می‌خواهید از طریق وب‌سایت یا اپلیکیشن به آن‌ها برسید را به وضوح مشخص کنید. مشخص کنید چه اقداماتی را می‌خواهید کاربران انجام دهند (مانند ثبت‌نام، خرید، به اشتراک‌گذاری محتوا) و چه چیزی را یک تبدیل موفق به حساب می‌آورید.
 
-- **Understand User Mindsets:** Identify your target audience and recognize their needs, preferences, emotions, and pain points. Accomplishing this requires user research, creating personas, storyboarding, and empathy mapping, among other methods.
+    درک ذهنیت‌های کاربر: مخاطبان هدف خود را شناسایی کرده و نیازها، ترجیحات، احساسات و نقاط درد آن‌ها را درک کنید. دستیابی به این هدف نیازمند تحقیقات کاربر، ایجاد پرسونای کاربری، داستان‌پردازی و نقشه‌برداری از همدلی و سایر روش‌ها است.
 
-- **Design the Optimal User Flow:** Craft a seamless and intuitive user journey by designing a clear path from the landing page to the desired action. Prioritize simplicity, usability, and efficiency. Make sure to include meaningful touchpoints and interactions to engage the users and make it easy for them to complete the intended action.
+    طراحی جریان کاربری بهینه: یک سفر کاربری بی‌نقص و شهودی را با طراحی یک مسیر واضح از صفحه فرود به عمل مورد نظر ایجاد کنید. بر سادگی، کاربرپسندی و کارایی تأکید کنید. اطمینان حاصل کنید که نقاط تماس و تعاملات معناداری را برای جذب کاربران و تسهیل انجام عمل مورد نظر در نظر گرفته‌اید.
 
-- **Refine and Test the Experience:** Use wireframes and prototypes to test and iteratively refine the user experience. Employ user testing, A/B testing, and analytics to gather insight on user behavior, preferences, and engagement. Continuously use feedback to make improvements, ensuring that the design effectively leads visitors down the action funnel.
+    تجزیه و تحلیل و آزمایش تجربه: از وایرفریم‌ها و پروتوتایپ‌ها برای آزمایش و اصلاح تدریجی تجربه کاربری استفاده کنید. از تست کاربر، تست A/B و تجزیه و تحلیل داده‌ها برای جمع‌آوری اطلاعات در مورد رفتار کاربر، ترجیحات و تعاملات استفاده کنید. به طور مداوم از بازخورد برای بهبود استفاده کنید تا اطمینان حاصل کنید که طراحی به طور مؤثری بازدیدکنندگان را به سمت قیف اقدام هدایت می‌کند.
 
-By implementing Stephen Wendell's `Create Action Funnel`, you can effectively guide users through an engaging journey that motivates them to become active customers, ultimately increasing conversion rates and overall satisfaction.
-
+با پیاده‌سازی قیف اقدام CREATE استیون وندل، می‌توانید به طور مؤثری کاربران را از طریق یک سفر جذاب راهنمایی کنید که آن‌ها را به تبدیل شدن به مشتریان فعال ترغیب می‌کند و در نهایت نرخ تبدیل و رضایت کلی را افزایش می‌دهد.
 - [@article@Behavioral Science Crash Course: Steve Wendel's CREATE Action Funnel](https://www.prodify.group/blog/behavioral-science-crash-course-steve-wendels-create-action-funnel)
